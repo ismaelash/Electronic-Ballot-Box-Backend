@@ -1,0 +1,22 @@
+USE [HubCountDatabase]
+GO
+
+/****** Object:  Table [dbo].[Voto]    Script Date: 12/02/2021 17:59:34 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Voto](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[IdCandidato] [int] NULL,
+	[DataVoto] [datetime] NULL,
+ CONSTRAINT [PK_Voto] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+
