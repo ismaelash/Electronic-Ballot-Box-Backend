@@ -9,13 +9,17 @@
   <p align="center">
     API Rest for Electronic Ballot Box System
     <br />
-    <a href="https://github.com/ismaelash/Electronic-Ballot-Box-Frontend">View Demo</a>
+    <a href="https://github.com/ismaelash/modelviwer-devices-support-frontend">View Demo</a>
     ·
-    <a href="https://github.com/ismaelash/Electronic-Ballot-Box-Backend/issues">Report Bug or Feature</a>
+    <a href="https://github.com/ismaelash/modelviwer-devices-support/issues">Report Bug or Feature</a>
   </p>
 </p>
 
-### Built With
+## Important
+
+Set the informations SQL Server Connection String on file [Constants](https://github.com/ismaelash/Electronic-Ballot-Box-Backend/blob/main/DataAccess/Constants.cs)
+
+## Built With
 
 * [.Net Core 3.1](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)
 * [Entity Framework](https://docs.microsoft.com/en-us/ef/)
