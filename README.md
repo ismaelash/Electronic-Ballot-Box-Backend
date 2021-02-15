@@ -19,6 +19,17 @@
 
 Set the informations SQL Server Connection String on file [Constants](https://github.com/ismaelash/Electronic-Ballot-Box-Backend/blob/main/DataAccess/Constants.cs)
 
+## Prerequisites
+
+
+* Execute Entity Framework commands on DataAcess project with your database connected
+  ```sh
+  PM> add-migration initil_migration
+  ```
+    ```sh
+  PM> update-database
+  ```
+
 ## Built With
 
 * [.Net Core 3.1](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)
