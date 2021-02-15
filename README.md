@@ -11,7 +11,7 @@
     <br />
     <a href="https://github.com/ismaelash/Electronic-Ballot-Box-Frontend">View Demo</a>
     ·
-    <a href="https://github.com/ismaelash/modelviwer-devices-support/issues">Report Bug or Feature</a>
+    <a href="https://github.com/ismaelash/Electronic-Ballot-Box-Backend/issues">Report Bug or Feature</a>
   </p>
 </p>
 
