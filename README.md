@@ -22,7 +22,7 @@ Set the informations SQL Server Connection String on file [Constants](https://gi
 
 * Execute Entity Framework commands on DataAcess project with your database connected
   ```sh
-  PM> add-migration initil_migration
+  PM> add-migration initial_migration
   ```
     ```sh
   PM> update-database
