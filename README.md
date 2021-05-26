@@ -57,6 +57,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
-Ismael Nascimento "Ash" - [@_ismaelash ](https://twitter.com/_ismaelash) - contato@ismaelnascimento.com
-Ismael Nascimento "Ash" - [Linkedin ](https://www.linkedin.com/in/ismaelash)
+- [Twitter](https://twitter.com/_ismaelash)
+- [Email](mailto:contato@ismaelnascimento.com)
+- [Linkedin ](https://www.linkedin.com/in/ismaelash)
